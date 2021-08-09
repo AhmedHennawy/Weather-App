@@ -1,3 +1,3 @@
 # Weather App
 
-This application will show the temperature of a location.
+this mobile app with cross-platform (Flutter) will show the temperature of a location.
