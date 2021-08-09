@@ -1,3 +1,3 @@
-# weather_app
+# Weather App
 
-A new Flutter project.
+This application will show the temperature of a location.
